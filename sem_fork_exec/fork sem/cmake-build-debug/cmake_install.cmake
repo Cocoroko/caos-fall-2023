@@ -1,4 +1,4 @@
-# Install script for directory: /Users/eseniyalushko/CLionProjects/fork sem
+# Install script for directory: /Users/eseniyalushko/caos-fall-2023/sem_fork_exec/fork sem
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/eseniyalushko/CLionProjects/fork sem/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/eseniyalushko/caos-fall-2023/sem_fork_exec/fork sem/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

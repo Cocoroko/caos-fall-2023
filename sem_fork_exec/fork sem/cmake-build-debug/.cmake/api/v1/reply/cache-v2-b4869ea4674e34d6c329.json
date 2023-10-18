@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/eseniyalushko/CLionProjects/fork sem/cmake-build-debug"
+			"value" : "/Users/eseniyalushko/caos-fall-2023/sem_fork_exec/fork sem/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -383,7 +383,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/eseniyalushko/CLionProjects/fork sem/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/eseniyalushko/caos-fall-2023/sem_fork_exec/fork sem/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/eseniyalushko/CLionProjects/fork sem"
+			"value" : "/Users/eseniyalushko/caos-fall-2023/sem_fork_exec/fork sem"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1015,7 +1015,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/eseniyalushko/CLionProjects/fork sem/cmake-build-debug"
+			"value" : "/Users/eseniyalushko/caos-fall-2023/sem_fork_exec/fork sem/cmake-build-debug"
 		},
 		{
 			"name" : "fork_sem_IS_TOP_LEVEL",
@@ -1039,7 +1039,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/eseniyalushko/CLionProjects/fork sem"
+			"value" : "/Users/eseniyalushko/caos-fall-2023/sem_fork_exec/fork sem"
 		}
 	],
 	"kind" : "cache",

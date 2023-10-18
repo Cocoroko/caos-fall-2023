@@ -1,3 +1,3 @@
-/Users/eseniyalushko/CLionProjects/fork sem/cmake-build-debug/CMakeFiles/fork_sem.dir
-/Users/eseniyalushko/CLionProjects/fork sem/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/eseniyalushko/CLionProjects/fork sem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/eseniyalushko/caos-fall-2023/sem_fork_exec/fork sem/cmake-build-debug/CMakeFiles/fork_sem.dir
+/Users/eseniyalushko/caos-fall-2023/sem_fork_exec/fork sem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eseniyalushko/caos-fall-2023/sem_fork_exec/fork sem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -94,7 +94,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "main.c",
+			"path" : "fork_bomb.c",
 			"sourceGroupIndex" : 0
 		}
 	],
