@@ -10,11 +10,12 @@ static void* thread_func(void* arg) {
     }
     pthread_t next_thread;
     pthread_create(&next_thread, NULL, thread_func, 0);
-    pthread_join(next_thread, NULL);
     printf("%d \n", val);
+    pthread_join(next_thread, NULL);
 
     return NULL;
 }
+
 
 int main() {
     pthread_t thread;

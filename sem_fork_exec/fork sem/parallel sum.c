@@ -6,6 +6,7 @@
 
 
 static void* func(void* arg) {
+    pid_t pid = getpid();
     int64_t result = 0;
     int32_t val;
     printf("new thread \n");
